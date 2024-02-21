@@ -4,7 +4,7 @@ import Link from 'next/link';
 export default function Projects({ data }) {
   return (
     <>
-      <h2 className='text-2xl text-center mb-5 font-semibold'>Projects</h2>
+      <h2 className='text-4xl text-center mb-10 font-semibold text-gray-200'>Projects</h2>
       <section className='grid grid-cols-1 sm:grid-cols-2 gap-5 container px-4 max-w-7xl mx-auto'>
         {data &&
           data.category.projects.map((info, index) => (

@@ -3,7 +3,7 @@ import React from 'react';
 export default function Jobs({ data }) {
   return (
     <>
-      <h2 className='text-2xl text-center mb-5 font-semibold'>Previous work</h2>
+      <h2 className='text-4xl text-center mb-10 font-semibold text-gray-200'>Previous work</h2>
       <section className='grid grid-cols-1 sm:grid-cols-2 gap-5 container px-4 max-w-7xl mx-auto'>
         {data &&
           data.category.job.map((info, index) => (
