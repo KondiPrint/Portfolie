@@ -1,50 +1,20 @@
 {
-  "settings": {
-    "backgroundcolor": "",
-    "headercolor": [
-      {
-        "bgcolor": "",
-        "textcolor": ""
-      }
-    ],
-    "sectionheadline": [
-      {
-        "bgcolor": "",
-        "textcolor": ""
-      }
-    ],
-    "cardheadercolor": {
-      "bgcolor": "",
-      "textcolor": ""
-    },
-    "cardsectioncolor": {
-      "bgcolor": "",
-      "textcolor": ""
-    }
-  },
   "intro": {
-    "content": "Webdesigner/Webudvikler/Frontendudvikler og meget mere."
+    "content": "Web-designer / Web-developer / Frontend-developer"
   },
-  "social": [
-    {
-      "title": "Linkedin",
-      "link": "http://linkedin"
-    }
-  ],
 
-  "footer": "Yes a footer",
-
-  "present": {
-    "title": "Under uddannelse",
-    "content": "Er ved at være klar"
+  "currently": {
+    "title": "Currently under education",
+    "content": "Not too long to go now."
   },
 
   "category": {
     "job": [
       {
         "id": 1,
-        "headline": "Aarhus Universitetshospital, 2020-2022",
-        "content": "Unskilled service worker. After I finished working in postal, I was permanently employed in the logistics department.",
+        "headline": "Aarhus Universitetshospital",
+        "content": "After I finished working in postal, I was permanently employed in the logistics department.",
+        "content2": "2020-2022, Unskilled service worker",
         "image": "",
         "links:": [
           {
@@ -55,8 +25,9 @@
       },
       {
         "id": 2,
-        "headline": "Aarhus Universitetshospital, 2018-2020",
+        "headline": "Aarhus Universitetshospital",
         "content": "I started out as an unskilled service postal worker at Skejby University Hospital, where I brought mail and samples to the entire hospital. Including the psychiatric department.",
+        "content2": "2018-2020, Unskilled service worker",
         "image": "",
         "links:": [
           {
@@ -67,8 +38,9 @@
       },
       {
         "id": 3,
-        "headline": "Forsvaret, 2015-2015",
+        "headline": "Forsvaret",
         "content": "Conscripted Private in Nørresundby kasserne, sanitation.",
+        "content2": "2015-2015, Private",
         "image": "",
         "links:": [
           {
@@ -79,8 +51,9 @@
       },
       {
         "id": 4,
-        "headline": "Aarhus Universitetshospital, 2012-2018",
+        "headline": "Aarhus Universitetshospital",
         "content": "I worked in the kitchen when the Municipal Hospital was still at Nørrebrogade. I later jumped between the kitchen and the temp office, where I worked as a food delivery driver in the hospital. There are small gaps in which I did not work the kitchen between 2012-2018, but I always ended up back there.",
+        "content2": "2012-2018, Unskilled service worker",
         "image": "",
         "links:": [
           {
@@ -91,8 +64,9 @@
       },
       {
         "id": 5,
-        "headline": "Kvickly (COOP), 2010-2012",
+        "headline": "Kvickly (COOP)",
         "content": "I worked in Fruit & Green department in Kvickly, Veri Centret, as a youth worker. Where I handled fruit and vegetables, as well as flowers.",
+        "content2": "2010-2012, Youth worker",
         "image": "",
         "links:": [
           {
@@ -102,11 +76,13 @@
         ]
       }
     ],
+
     "skills": [
       {
         "id": 1,
         "headline": "JavaScript/TypeScript OOP",
-        "content": "",
+        "content": "I'm delving into JavaScript and TypeScript, learning the ropes of Object-Oriented Programming (OOP) principles. While not an expert, I've got a foundational understanding and actively experiment with coding styles to improve efficiency. Excited to continue learning and contribute to web development projects.",
+        "content2": "",
         "image": "",
         "links:": [
           {
@@ -118,7 +94,8 @@
       {
         "id": 2,
         "headline": "Elevated CSS Styling",
-        "content": "As a web developer, I excel in planning and creating CSS coding for small web solutions, incorporating dynamic elements and optimizing code efficiently. I specialize in structuring and optimizing CSS code within projects, tailoring it for various platforms and devices. Additionally, I have experience customizing and expanding existing CSS frameworks, including Bootstrap and Tailwind CSS, and am proficient in using Sass as a preprocessor.",
+        "content": "As a web developer, I specialize in planning and crafting CSS for small web solutions. My focus includes optimizing code for various platforms and devices, with a particular emphasis on customizing and extending existing CSS frameworks, especially Tailwind CSS. While proficient in using Sass for streamlined styling, I prefer leveraging the power and utility-first approach of Tailwind CSS for efficient and scalable styling.",
+        "content2": "",
         "image": "",
         "links:": [
           {
@@ -129,8 +106,9 @@
       },
       {
         "id": 3,
-        "headline": "Node, NPM og Webpack",
-        "content": "",
+        "headline": "Node.js and Build Tools Explorer",
+        "content": "Actively exploring the Node.js ecosystem, NPM, and Webpack in my educational journey. While not yet an expert, I'm gaining hands-on experience with Node.js for server-side scripting, managing dependencies with NPM, and optimizing builds with Webpack.",
+        "content2": "",
         "image": "",
         "links:": [
           {
@@ -142,7 +120,8 @@
       {
         "id": 4,
         "headline": "Integration of data via API's",
-        "content": "As a web developer, I excel in seamlessly integrating data services and constructing APIs for efficient data extraction. Proficient in the HTTP protocol and committed to data security, I navigate the dynamic interplay between database structure and frontend development. My expertise includes both synchronous and asynchronous data transfer methods, ensuring compliance with relevant legislation. I'm adept at using optimization and debugging tools.",
+        "content": "Specializing in seamless data integration and API construction for efficient data extraction. Proficient in the HTTP protocol, I navigate the interplay between database structure and frontend development. My expertise includes both synchronous and asynchronous data transfer methods, ensuring compliance with relevant legislation.",
+        "content2": "",
         "image": "",
         "links:": [
           {
@@ -153,8 +132,9 @@
       },
       {
         "id": 5,
-        "headline": "React Native & ionic Capacitor",
-        "content": "",
+        "headline": "React and Next.js Learner",
+        "content": "Actively exploring React and dipping into Next.js as part of my ongoing educational journey. Building a foundation in creating dynamic user interfaces with React and taking initial steps into Next.js to understand features like server-side rendering. Eager to gain hands-on experience and enhance my skills in building web applications.",
+        "content2": "",
         "image": "",
         "links:": [
           {
@@ -165,16 +145,56 @@
       }
     ],
 
-    "fun": [
+    "projects": [
       {
         "id": 1,
-        "headline": "JavaScript/TypeScript OOP",
-        "content": "fun content",
+        "headline": "Dataservice final assginment",
+        "content": "The final project assigned in the course Dataservice.",
+        "content2": "",
         "image": "",
-        "links:": [
+        "links": [
           {
             "online": "",
-            "github": ""
+            "github": "https://github.com/KondiPrint/afsluttende_opgave_next"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "headline": "Practice-web final assginment",
+        "content": "The final project assigned in the course Practice-web, which was a group assignment.",
+        "content2": "",
+        "image": "",
+        "links": [
+          {
+            "online": "",
+            "github": "https://github.com/KondiPrint/gjerrildvandrehjem_opgave"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "headline": "Programming final assginment",
+        "content": "The final project assigned in the course Programming.",
+        "content2": "",
+        "image": "",
+        "links": [
+          {
+            "online": "",
+            "github": "https://github.com/KondiPrint/project_two-spa"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "headline": "Advanced Frontend final assginment",
+        "content": "The final project assigned in the course Advanced Frontend.",
+        "content2": "",
+        "image": "",
+        "links": [
+          {
+            "online": "",
+            "github": "https://github.com/KondiPrint/project_one"
           }
         ]
       }

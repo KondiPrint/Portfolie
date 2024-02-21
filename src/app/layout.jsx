@@ -13,9 +13,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang='en' className='min-h-dvh scroll-smooth'>
-      <body className={inter.className + ' ' + 'min-h-dvh flex flex-col bg-[url("/assets/img/")]'}>
+      <body className={inter.className + ' ' + 'min-h-dvh flex flex-col bg-[url("/assets/img/modern-weave.png")]'}>
         <Header />
-        <main className='flex-grow container px-4 max-w-7xl mx-auto'>{children}</main>
+        <main className='flex-grow'>{children}</main>
         <Footer />
       </body>
     </html>
